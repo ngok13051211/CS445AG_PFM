@@ -24,7 +24,7 @@
 ## Công nghệ sử dụng
 
 - **Ngôn ngữ lập trình**: [JavaScript]
-- **Framework**: [React Native]
+- **Framework**: [React Native, Node.js + Express.js]
 - **Cơ sở dữ liệu**: [PostgreSQL]
 
 ## Hướng dẫn cài đặt
